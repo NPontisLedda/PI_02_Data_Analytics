@@ -80,7 +80,7 @@ En función de lo analizado en el punto anterior, se plantearon dos objetivos en
 
 * *A continuación podemos ver los gráficos de los KPIs:*
 
-  [KPIs](PI_02_DA/imagenes/KPI.png)
+  ![KPIs](https://github.com/NPontisLedda/PI_02_Data_Analytics/blob/main/PI_02_DA/imagenes/KPI.png)
 
 ## Conclusiones y recomendaciones
 
