@@ -1,5 +1,7 @@
 # Homicidios por siniestros viales en la Ciudad Autónoma de Buenos Aires, Argentina
 
+![Siniestros](https://github.com/NPontisLedda/PI_02_Data_Analytics/blob/main/PI_02_DA/imagenes/accidente.jpg)
+
 ## Introducción
 
 En este proyecto se simula el rol de un Data Analyst que forma parte del equipo de analistas de datos de una empresa consultora a la cual el **Observatorio de Movilidad y Seguridad Vial (OMSV)**, que es un centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA), les solicitó la elaboración de un proyecto de análisis de datos. 
